@@ -1,0 +1,85 @@
+ul li{
+    width: 30%;
+}
+
+body{
+    background-image: url('../img/game.jpg');
+    width: 100%;
+}
+#navbar-logo{
+    border: solid 1px #fff;
+}
+.aukstis-100 {
+    height: 100px;
+}
+.aukstis-200 {
+    height: 200px;
+}
+.aukstis-400 {
+    height: 400px;
+}
+.aukstis-500 {
+    height: 500px;
+}
+
+
+.logo-img{
+    width: 30px;
+    height: 30px;
+}
+
+
+.abs-tekstas{
+    position: relative;
+    margin-top: 28%;
+}
+
+.shot{
+    position: absolute;
+    width: 100%;
+
+}
+.labelis{
+    background-color: rgba(66, 67, 74, 0.5);
+}
+.aprasas{
+    color: rgb(233, 233, 233);
+}
+.welcome-msg{
+    margin-top: 15%;
+    margin-left: 8%;
+    color: #fff;
+}
+.gamename{
+    color: rgb(223, 126, 26);
+    border-bottom: solid 2px rgb(223, 126, 26);
+    text-align: center;
+}
+.btn-lg{
+    margin-left: 45%;
+    border-radius: 0;
+    width: 200px;
+}
+.btn-xs{
+    border-radius: 0;
+    width: 80px;
+}
+
+.abs-txt{
+    color: rgb(223, 126, 26);
+    font-weight: 600;
+}
+.aboutme{
+    margin-top: 10%;
+    border-bottom: solid 2px rgb(223, 126, 26);
+    color: rgb(223, 126, 26);
+}
+.footer {
+    color: rgb(193, 193, 193);
+}
+.footer h3{
+    border-bottom: solid 1px rgb(193, 193, 193);
+}
+p{
+    color: #fff;
+}
