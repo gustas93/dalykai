@@ -1,3 +1,6 @@
+project hosted in:
+https://template7701.herokuapp.com/
+
 During this exercise I was learning Scss language basics and how
 to use variables writing this language. Also I learned hoe to write
 style sheet code without using CSS frameworks. (All css comments
